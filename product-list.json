@@ -1,6 +1,6 @@
 [ 
     { 
-        "#Product Image": "images/01.webp",
+        "#Product Image": "/images/01.webp",
         "#Label": "New Season",
         "#Brand Name": "Gucci", 
         "#Product Description": "Item 1", 
