@@ -1,0 +1,28 @@
+[ 
+    { 
+        "#Product Image": "https://m.hng.io/catalog/product/7/5/759865_shade_6_1_1.jpg?io=PDP",
+        "#Model Shot": "https://m.hng.io/catalog/product/7/5/759865_shade_6_2_1.jpg?io=PDP",
+        "#Label": " ",
+        "#Brand Name": "Benefit", 
+        "#Product Description": "Hello Happy Flawless Brightening Foundation 30ml", 
+        "#Price":"$27.50",
+        "#Swatch 1":"https://m.hng.io/catalog/product/s/h/shade_6_4.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 2":"https://m.hng.io/catalog/product/s/h/shade_7_3.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 3":"https://m.hng.io/catalog/product/s/h/shade_8_3.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 4":"https://m.hng.io/catalog/product/s/h/shade_9_5.jpg?io=DROPDOWN_SWATCH"
+    },
+    { 
+        "#Product Image": "https://m.hng.io/catalog/product/7/5/759865_shade_6_1_1.jpg?io=PDP",
+        "#Model Shot": "https://m.hng.io/catalog/product/7/5/759865_shade_6_2_1.jpg?io=PDP",
+        "#Label": "New in",
+        "#Brand Name": "Dior", 
+        "#Product Description": "Dior Addict Lip Tattoo", 
+        "#Price":"$29.50",
+        "#Swatch 1":"https://m.hng.io/catalog/product/7/6/761_natural_cherry_2.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 2":"https://m.hng.io/catalog/product/4/2/421_natural_beige_1.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 3":"https://m.hng.io/catalog/product/4/5/451_natural_coral_2.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 4":"https://m.hng.io/catalog/product/7/7/771_natural_berry_2.jpg?io=DROPDOWN_SWATCH"
+    }
+
+
+]
