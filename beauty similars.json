@@ -1,0 +1,89 @@
+[ 
+    { 
+        "#Product Image": "https://m.hng.io/catalog/product/6/2/620771_noirish_1.jpg?io=PDP",
+        "#Model Shot": "https://m.hng.io/catalog/product/6/2/620771_noirish_2.jpg?io=PDP",
+        "#Label": " ",
+        "#Brand Name": "Estée Lauder", 
+        "#Product Description": "Pure Color Envy Sculpting Lipstick", 
+        "#Price":"$22.50",
+        "#Swatch 1":"https://m.hng.io/catalog/product/n/o/noirish.jpg",
+        "#Swatch 2":"https://m.hng.io/catalog/product/n/e/never_enough.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 3":"https://m.hng.io/catalog/product/n/a/naked_desire.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 4":"https://m.hng.io/catalog/product/u/n/uninhibited_1.jpg?io=DROPDOWN_SWATCH"
+    },
+    { 
+        "#Product Image": "https://m.hng.io/catalog/product/6/2/629748_ripped_raisin_1.jpg?io=PDP",
+        "#Model Shot": "https://m.hng.io/catalog/product/6/2/629748_ripped_raisin_2.jpg?io=PDP",
+        "#Label": "",
+        "#Brand Name": "Estée Lauder", 
+        "#Product Description": "Pure Color Love Lipstick Pearl", 
+        "#Price":"$29.50",
+        "#Swatch 1":"https://m.hng.io/catalog/product/r/i/ripped_raisin.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 2":"https://m.hng.io/catalog/product/h/a/haute_and_cold_1.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 3":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg",
+        "#Swatch 4":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg"
+    },
+
+    { 
+        "#Product Image": "https://m.hng.io/catalog/product/6/4/649732_b90_1_1.jpg?io=PDP",
+        "#Model Shot": "https://m.hng.io/catalog/product/6/4/649732_b90_2_1.jpg?io=PDP",
+        "#Label": " ",
+        "#Brand Name": "Yves Saint Laurent", 
+        "#Product Description": "All Hours Foundation SPF20 25ml", 
+        "#Price":"$39.00",
+        "#Swatch 1":"https://m.hng.io/catalog/product/b/9/b90_2.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 2":"https://m.hng.io/catalog/product/b/1/b10_7.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 3":"https://m.hng.io/catalog/product/b/2/b20_10.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 4":"https://m.hng.io/catalog/product/b/3/b30_8.jpg?io=DROPDOWN_SWATCH"
+    },
+    { 
+        "#Product Image": "https://m.hng.io/catalog/product/8/4/843403_5_1.jpg?io=PDP",
+        "#Model Shot": "https://m.hng.io/catalog/product/8/4/843403_5_2.jpg?io=PDP",
+        "#Label": " ",
+        "#Brand Name": "Yves Saint Laurent", 
+        "#Product Description": "All Hours Foundation SPF20 25ml", 
+        "#Price":"$39.00",
+        "#Swatch 1":"https://m.hng.io/catalog/product/5/_/5_49.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 2":"https://m.hng.io/catalog/product/1/_/1_62.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 3":"https://m.hng.io/catalog/product/2/_/2_63.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 4":"https://m.hng.io/catalog/product/7/_/7_30.jpg?io=DROPDOWN_SWATCH"
+    },
+    { 
+        "#Product Image": "https://m.hng.io/catalog/product/6/4/647363_blossom_1_1.jpg?io=PDP",
+        "#Model Shot": " ",
+        "#Label": " ",
+        "#Brand Name": "Laura Mercier", 
+        "#Product Description": "Caviar Eye Stick Colour", 
+        "#Price":"$25.50",
+        "#Swatch 1":"https://m.hng.io/catalog/product/b/l/blossom_4.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 2":"https://m.hng.io/catalog/product/g/o/golden_23.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 3":"https://m.hng.io/catalog/product/n/u/nude_rose_5.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 4":"https://m.hng.io/catalog/product/p/e/pearl_150.jpg?io=DROPDOWN_SWATCH"
+    },
+    { 
+        "#Product Image": "https://m.hng.io/catalog/product/8/1/813348_medium_brown_1.jpg?io=PDP",
+        "#Model Shot": "https://m.hng.io/catalog/product/8/1/813348_medium_brown_2.jpg?io=PDP",
+        "#Label": " ",
+        "#Brand Name": "Marck Jacobs Beauty", 
+        "#Product Description": "Brow Wow Duo Brow Powder Pencil and Tinted Gel (+ 1 Pencil Refill)", 
+        "#Price":"$24.50",
+        "#Swatch 1":"https://m.hng.io/catalog/product/m/e/medium_brown_3.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 2":"https://m.hng.io/catalog/product/b/l/black_64357.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 3":"https://m.hng.io/catalog/product/d/a/dark_brown_204.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 4":"https://m.hng.io/catalog/product/l/i/light_brown_170.jpg?io=DROPDOWN_SWATCH"
+    },
+    { 
+        "#Product Image": "https://m.hng.io/catalog/product/8/0/806029_08_VELVET_CHERRY_1_1.jpg?io=PDP",
+        "#Model Shot": "https://m.hng.io/catalog/product/8/0/806029_08_VELVET_CHERRY_2_1.jpg?io=PDP",
+        "#Label": " ",
+        "#Brand Name": "Tom Ford", 
+        "#Product Description": "Lip Color Satin Matte", 
+        "#Price":"$24.50",
+        "#Swatch 1":"https://m.hng.io/catalog/product/0/8/08_VELVET_CHERRY_2.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 2":"https://m.hng.io/catalog/product/0/9/09_TRUE_CORAL_2.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 3":"https://m.hng.io/catalog/product/1/5/15_WILD_GINGER_2.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 4":"https://m.hng.io/catalog/product/1/6/16_SCARLET_ROUGE_2.jpg?io=DROPDOWN_SWATCH"
+    }
+
+
+]
