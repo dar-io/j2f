@@ -97,16 +97,16 @@
         "#Swatch 4":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg"
     },
     { 
-        "#Product Image": "https://m.hng.io/catalog/product/7/3/735655_1.jpg?io=PDP",
+        "#Product Image": "https://m.hng.io/catalog/product/6/9/698108_7.5_NEUTRAL_1_1.jpg?io=PDP",
         "#Model Shot": "https://m.hng.io/catalog/product/6/9/698108_7.5_NEUTRAL_5_1.jpg?io=PDP",
         "#Label": " ",
         "#Brand Name": "Dior", 
         "#Product Description": "Dior Backstage Face & Body Foundation", 
         "#Price":"$29.50",
-        "#Swatch 1":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg",
-        "#Swatch 2":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg",
-        "#Swatch 3":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg",
-        "#Swatch 4":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg"
+        "#Swatch 1":"https://m.hng.io/catalog/product/7/_/7.5_NEUTRAL_1.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 2":"https://m.hng.io/catalog/product/7/_/7_NEUTRAL_1.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 3":"https://m.hng.io/catalog/product/6/_/6.5_NEUTRAL_1.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 4":"https://m.hng.io/catalog/product/6/_/6_WARM_1.jpg?io=DROPDOWN_SWATCH"
     },
     { 
         "#Product Image": "https://m.hng.io/catalog/product/8/4/847074_SHADE_22_1.jpg?io=PDP",
