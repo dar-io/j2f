@@ -83,7 +83,68 @@
         "#Swatch 2":"https://m.hng.io/catalog/product/0/9/09_TRUE_CORAL_2.jpg?io=DROPDOWN_SWATCH",
         "#Swatch 3":"https://m.hng.io/catalog/product/1/5/15_WILD_GINGER_2.jpg?io=DROPDOWN_SWATCH",
         "#Swatch 4":"https://m.hng.io/catalog/product/1/6/16_SCARLET_ROUGE_2.jpg?io=DROPDOWN_SWATCH"
+    },
+    { 
+        "#Product Image": "https://m.hng.io/catalog/product/7/3/735655_1.jpg?io=PDP",
+        "#Model Shot": " ",
+        "#Label": " ",
+        "#Brand Name": "Estée Lauder", 
+        "#Product Description": "Pure Color Envy Lip Volumizer", 
+        "#Price":"$24.50",
+        "#Swatch 1":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg",
+        "#Swatch 2":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg",
+        "#Swatch 3":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg",
+        "#Swatch 4":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg"
+    },
+    { 
+        "#Product Image": "https://m.hng.io/catalog/product/7/3/735655_1.jpg?io=PDP",
+        "#Model Shot": "https://m.hng.io/catalog/product/6/9/698108_7.5_NEUTRAL_5_1.jpg?io=PDP",
+        "#Label": " ",
+        "#Brand Name": "Dior", 
+        "#Product Description": "Dior Backstage Face & Body Foundation", 
+        "#Price":"$29.50",
+        "#Swatch 1":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg",
+        "#Swatch 2":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg",
+        "#Swatch 3":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg",
+        "#Swatch 4":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg"
+    },
+    { 
+        "#Product Image": "https://m.hng.io/catalog/product/8/4/847074_SHADE_22_1.jpg?io=PDP",
+        "#Model Shot": "https://m.hng.io/catalog/product/8/4/847074_SHADE_22_2.jpg?io=PDP",
+        "#Label": " ",
+        "#Brand Name": "FENTY BEAUTY", 
+        "#Product Description": "Eaze Drop Blurring Skin Tint", 
+        "#Price":"$25.00",
+        "#Swatch 1":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg",
+        "#Swatch 2":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg",
+        "#Swatch 3":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg",
+        "#Swatch 4":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg"
+    },
+    { 
+        "#Product Image": "https://m.hng.io/catalog/product/6/2/621941_1.jpg?io=PDP",
+        "#Model Shot": "https://m.hng.io/catalog/product/6/2/621941_2.jpg?io=PDP",
+        "#Label": " ",
+        "#Brand Name": "Iconic London", 
+        "#Product Description": "Illuminator Drops 10ml", 
+        "#Price":"$30.00",
+        "#Swatch 1":"https://m.hng.io/catalog/product/S/H/SHADE_22.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 2":"https://m.hng.io/catalog/product/S/H/SHADE_23.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 3":"https://m.hng.io/catalog/product/S/H/SHADE_24.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 4":"https://m.hng.io/catalog/product/S/H/SHADE_25.jpg?io=DROPDOWN_SWATCH"
+    },
+    { 
+        "#Product Image": "https://m.hng.io/catalog/product/8/4/848707_loyal_1_2.jpg?io=PDP",
+        "#Model Shot": "https://m.hng.io/catalog/product/8/4/848707_loyal_3_2.jpg?io=PDP",
+        "#Label": " ",
+        "#Brand Name": "Hourglass", 
+        "#Product Description": "Vanish Blush Stick", 
+        "#Price":"$25.00",
+        "#Swatch 1":"https://m.hng.io/catalog/product/l/o/loyal_2.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 2":"https://m.hng.io/catalog/product/r/e/revel_2.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 3":"https://m.hng.io/catalog/product/s/a/sacred_2.jpg?io=DROPDOWN_SWATCH",
+        "#Swatch 4":"https://m.hng.io/catalog/product/S/H/SHADE_25.jpg?io=DROPDOWN_SWATCH"
     }
+
 
 
 ]
