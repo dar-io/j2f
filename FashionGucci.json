@@ -1,0 +1,100 @@
+[ 
+    { 
+        "#Product Image": "https://cdn-images.farfetch-contents.com/16/78/29/08/16782908_33160356_1000.jpg",
+        "#Model Shot": "https://cdn-images.farfetch-contents.com/16/78/29/08/16782908_33159743_1000.jpg",
+        "#Label": "New Season",
+        "#Brand Name": "Gucci", 
+        "#Product Description": "Ace kitten-logo low-top sneakers", 
+        "#Price":"$690"
+    },
+    { 
+        "#Product Image": "https://cdn-images.farfetch-contents.com/17/03/23/96/17032396_34104352_1000.jpg",
+        "#Model Shot": "https://cdn-images.farfetch-contents.com/17/03/23/96/17032396_34103491_1000.jpg",
+        "#Label": "New Season",
+        "#Brand Name": "Gucci", 
+        "#Product Description": "Diana mini tote bag", 
+        "#Price":"$2,650"
+    },
+    { 
+        "#Product Image": "https://cdn-images.farfetch-contents.com/17/06/99/79/17069979_34338288_1000.jpg",
+        "#Model Shot": "https://cdn-images.farfetch-contents.com/17/06/99/79/17069979_34339429_1000.jpg",
+        "#Label": "New Season",
+        "#Brand Name": "Gucci", 
+        "#Product Description": "GG chain-trim shirtdress", 
+        "#Price":"$2,980"
+    },
+    { 
+        "#Product Image": "https://cdn-images.farfetch-contents.com/17/08/66/88/17086688_34208202_1000.jpg",
+        "#Model Shot": "https://cdn-images.farfetch-contents.com/17/08/66/88/17086688_34206495_1000.jpg",
+        "#Label": "New Season",
+        "#Brand Name": "Gucci", 
+        "#Product Description": "GG ankle boots", 
+        "#Price":"$980"
+    },
+    { 
+        "#Product Image": "https://cdn-images.farfetch-contents.com/16/80/11/61/16801161_33237704_1000.jpg",
+        "#Model Shot": "https://cdn-images.farfetch-contents.com/16/80/11/61/16801161_33237703_1000.jpg",
+        "#Label": "New Season",
+        "#Brand Name": "Gucci", 
+        "#Product Description": "Horsebit buckle platform loafers", 
+        "#Price":"$950"
+    },
+    { 
+        "#Product Image": "https://cdn-images.farfetch-contents.com/16/78/17/56/16781756_33158599_1000.jpg",
+        "#Model Shot": "https://cdn-images.farfetch-contents.com/16/78/17/56/16781756_34997928_1000.jpg",
+        "#Label": "New Season",
+        "#Brand Name": "Gucci", 
+        "#Product Description": "Square G check tweed skirt", 
+        "#Price":"$1,300"
+    },
+    { 
+        "#Product Image": "https://cdn-images.farfetch-contents.com/17/08/66/89/17086689_34207295_1000.jpg",
+        "#Model Shot": "https://cdn-images.farfetch-contents.com/17/08/66/89/17086689_34206497_1000.jpg",
+        "#Label": "New Season",
+        "#Brand Name": "Gucci", 
+        "#Product Description": "small Dionysus shoulder bag", 
+        "#Price":"$2,890"
+    },
+    { 
+        "#Product Image": "https://dar-io.github.io/j2f/images/08.jpg",
+        "#Model Shot": "https://dar-io.github.io/j2f/images/08-hover.jpg",
+        "#Label": "New Season",
+        "#Brand Name": "Gucci", 
+        "#Product Description": "super mini GG Marmont shoulder bag", 
+        "#Price":"$840"
+    },
+    { 
+        "#Product Image": "https://cdn-images.farfetch-contents.com/17/04/55/41/17045541_34354959_1000.jpg",
+        "#Model Shot": "https://cdn-images.farfetch-contents.com/17/04/55/41/17045541_34354964_1000.jpg",
+        "#Label": "New Season",
+        "#Brand Name": "Gucci", 
+        "#Product Description": "layered belted trench coat", 
+        "#Price":"$4,200"
+    },
+    { 
+        "#Product Image": "https://cdn-images.farfetch-contents.com/17/12/34/07/17123407_34602819_1000.jpg",
+        "#Model Shot": "https://cdn-images.farfetch-contents.com/17/12/34/07/17123407_34602821_1000.jpg",
+        "#Label": "New Season",
+        "#Brand Name": "Gucci", 
+        "#Product Description": "knee-high leather boots", 
+        "#Price":"$1,650"
+    },
+    { 
+        "#Product Image": "https://cdn-images.farfetch-contents.com/17/02/05/94/17020594_34150760_1000.jpg",
+        "#Model Shot": "https://cdn-images.farfetch-contents.com/17/02/05/94/17020594_34150763_1000.jpg",
+        "#Label": "New Season",
+        "#Brand Name": "Gucci", 
+        "#Product Description": "check-pattern single-breasted blazer", 
+        "#Price":"$3,500"
+    },
+    { 
+        "#Product Image": "https://cdn-images.farfetch-contents.com/12/13/24/61/12132461_10136995_1000.jpg",
+        "#Model Shot": "https://cdn-images.farfetch-contents.com/12/13/24/61/12132461_10136996_1000.jpg",
+        "#Label": "New Season",
+        "#Brand Name": "Gucci", 
+        "#Product Description": "double G buckle belt", 
+        "#Price":"$490"
+    }
+
+
+]
