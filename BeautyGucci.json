@@ -1,20 +1,20 @@
 [ 
     { 
         "#Product Image": "https://media.gucci.com/style/White_Center_0_0_1200x1200/1554987604/586170_9PLP9_9003_001_100_0000_Light-3-Ren-Pink-Baume-Lvres-Lip-Balm.jpg",
-        "#Model Shot": "https://image.harrods.com/16/05/70/68/16057068_29918197_800.jpg",
+        "#Model Shot": "https://media.gucci.com/style/DarkGray_Center_0_0_2400x2400_40/1554987604/586170_9PLP9_9003_002_100_0000_Light-3-Ren-Pink-Baume-Lvres-Lip-Balm.jpg",
         "#Label": " ",
         "#Brand Name": "Gucci", 
         "#Product Description": "3 René Pink, Baume à Lèvres Lip Balm", 
         "#Price":"$33.50",
         "#SwatchesNumber":"",
-        "#Swatch 1":"https://image.harrods.com/16/05/70/67/16057067_29918202_200.jpg",
-        "#Swatch 2":"https://image.harrods.com/16/05/70/68/16057068_29918198_200.jpg",
-        "#Swatch 3":"https://m.hng.io/catalog/product/1/1/112_opportunity.jpg?io=DROPDOWN_SWATCH",
-        "#Swatch 4":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg"
+        "#Swatch 1":"https://media.gucci.com/style/Default_Center_0_0_140x140/1554987605/Swatch_586170_9PLP9_9003_001_100_0000_Default.jpg",
+        "#Swatch 2":"https://media.gucci.com/style/Default_Center_0_0_140x140/1554987605/Swatch_586170_9PLP9_9002_001_100_0000_Default.jpg",
+        "#Swatch 3":"https://media.gucci.com/style/Default_Center_0_0_140x140/1554987605/Swatch_586170_9PLP9_9001_001_100_0000_Default.jpg",
+        "#Swatch 4":"https://media.gucci.com/style/Default_Center_0_0_140x140/1554987605/Swatch_586170_9PLP9_9004_001_100_0000_Default.jpg"
     },
     { 
         "#Product Image": "https://media.gucci.com/style/White_Center_0_0_1200x1200/1611682204/647859_9PL13_9025_001_100_0000_Light-25-Goldie-Red-Rouge-De-Beaut-Brillant.jpg",
-        "#Model Shot": "https://media.gucci.com/style/White_Center_0_0_2400x2400_40/1611682204/647859_9PL13_9025_002_100_0000_Light-25-Goldie-Red-Rouge-De-Beaut-Brillant.jpg",
+        "#Model Shot": "https://media.gucci.com/style/DarkGray_Center_0_0_2400x2400_40/1611682204/647859_9PL13_9025_002_100_0000_Light-25-Goldie-Red-Rouge-De-Beaut-Brillant.jpg",
         "#Label": "Exclusive",
         "#Brand Name": "Gucci", 
         "#Product Description": "25* Goldie Red, Rouge De Beauté Brillant", 
@@ -28,7 +28,7 @@
 
     { 
         "#Product Image": "https://media.gucci.com/style/White_Center_0_0_1200x1200/1615279508/663440_9PEB2_9001_001_100_0000_Light-01-Miel-Stylo-Sourcils-Waterproof-Eyebrow-Pencil.jpg",
-        "#Model Shot": "https://media.gucci.com/style/White_Center_0_0_2400x2400_40/1615279508/663440_9PEB2_9001_002_100_0000_Light-01-Miel-Stylo-Sourcils-Waterproof-Eyebrow-Pencil.jpg",
+        "#Model Shot": "https://media.gucci.com/style/DarkGray_Center_0_0_2400x2400_40/1615279508/663440_9PEB2_9001_002_100_0000_Light-01-Miel-Stylo-Sourcils-Waterproof-Eyebrow-Pencil.jpg",
         "#Label": "New In",
         "#Brand Name": "Gucci", 
         "#Product Description": "01 Miel, Stylo À Sourcils Waterproof Eyebrow Pencil ", 
@@ -40,21 +40,8 @@
         "#Swatch 4":"https://media.gucci.com/style/Default_Center_0_0_140x140/1625508008/Swatch_663440_9PEB2_9004_001_100_0000_Default.jpg"
     },
     { 
-        "#Product Image": "https://media.gucci.com/style/White_Center_0_0_1200x1200/1611679506/663453_9KPL1_9003_001_100_0000_Light-03-Chocolat-Stylo-Contour-des-Yeux-Eyeliner.jpg",
-        "#Model Shot": "https://media.gucci.com/style/White_Center_0_0_2400x2400_40/1611679506/663453_9KPL1_9003_002_100_0000_Light-03-Chocolat-Stylo-Contour-des-Yeux-Eyeliner.jpg",
-        "#Label": "New in",
-        "#Brand Name": "Gucci", 
-        "#Product Description": "03 Chocolat, Stylo Contour des Yeux Eyeliner", 
-        "#Price":"$33.00",
-        "#SwatchesNumber":"+2",
-        "#Swatch 1":"https://media.gucci.com/style/Default_Center_0_0_140x140/1611843303/Swatch_663453_9KPL1_9003_001_100_0000_Default.jpg",
-        "#Swatch 2":"https://media.gucci.com/style/Default_Center_0_0_140x140/1611843303/Swatch_663453_9KPL1_9001_001_100_0000_Default.jpg",
-        "#Swatch 3":"https://media.gucci.com/style/Default_Center_0_0_140x140/1611843303/Swatch_663453_9KPL1_9002_001_100_0000_Default.jpg",
-        "#Swatch 4":"https://media.gucci.com/style/Default_Center_0_0_140x140/1611843303/Swatch_663453_9KPL1_9004_001_100_0000_Default.jpg"
-    },
-    { 
         "#Product Image": "https://media.gucci.com/style/White_Center_0_0_1200x1200/1607970603/654871_9PFO3_9001_001_100_0000_Light-210C-Fluide-De-Beaut-Fini-Naturel-foundation.jpg",
-        "#Model Shot": "https://media.gucci.com/style/White_Center_0_0_1200x1200/1605653105/654871_9PFO3_9001_002_100_0000_Light-210C-Fluide-De-Beaut-Fini-Naturel-foundation.jpg",
+        "#Model Shot": "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1605653105/654871_9PFO3_9001_002_100_0000_Light-210C-Fluide-De-Beaut-Fini-Naturel-foundation.jpg",
         "#Label": "New in",
         "#Brand Name": "Gucci", 
         "#Product Description": "210C, Fluide De Beauté Fini Naturel foundation", 
@@ -66,7 +53,7 @@
         "#Swatch 4":"https://media.gucci.com/style/Default_Center_0_0_140x140/1607970610/Swatch_654871_9PFO3_9013_001_100_0000_Default.jpg"
     },
     { 
-        "#Product Image": "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1627405207/624979_9PRD9_0012_001_100_0000_Light-12-Poudre-De-Beaut-Mat-Naturel-Face-Powder.jpg",
+        "#Product Image": "https://media.gucci.com/style/White_Center_0_0_1200x1200/1627405207/624979_9PRD9_0012_001_100_0000_Light-12-Poudre-De-Beaut-Mat-Naturel-Face-Powder.jpg",
         "#Model Shot": "https://media.gucci.com/style/DarkGray_Center_0_0_2400x2400_40/1611678603/624979_9PRD9_0012_002_100_0000_Light-12-Poudre-De-Beaut-Mat-Naturel-Face-Powder.jpg",
         "#Label": " ",
         "#Brand Name": "Gucci", 
@@ -80,7 +67,7 @@
     },
     { 
         "#Product Image": "https://media.gucci.com/style/White_Center_0_0_1200x1200/1612807203/662287_99PRD_9025_001_100_0000_Light-25-Goldie-Red-Vernis-Ongles-Nail-Polish.jpg",
-        "#Model Shot": "https://media.gucci.com/style/White_Center_0_0_2400x2400_40/1612807204/662287_99PRD_9025_002_100_0000_Light-25-Goldie-Red-Vernis-Ongles-Nail-Polish.jpg",
+        "#Model Shot": "https://media.gucci.com/style/DarkGray_Center_0_0_2400x2400_40/1612807204/662287_99PRD_9025_002_100_0000_Light-25-Goldie-Red-Vernis-Ongles-Nail-Polish.jpg",
         "#Label": "Exclusive",
         "#Brand Name": "Gucci", 
         "#Product Description": "25*​ Goldie​ Red, Vernis à Ongles Nail Polish", 
@@ -92,8 +79,21 @@
         "#Swatch 4":"https://media.gucci.com/style/Default_Center_0_0_140x140/1612807210/Swatch_662287_99PRD_9413_001_100_0000_Default.jpg"
     },
     { 
+        "#Product Image": "https://media.gucci.com/style/White_Center_0_0_1200x1200/1611679506/663453_9KPL1_9003_001_100_0000_Light-03-Chocolat-Stylo-Contour-des-Yeux-Eyeliner.jpg",
+        "#Model Shot": "https://media.gucci.com/style/DarkGray_Center_0_0_2400x2400_40/1611679506/663453_9KPL1_9003_002_100_0000_Light-03-Chocolat-Stylo-Contour-des-Yeux-Eyeliner.jpg",
+        "#Label": "New in",
+        "#Brand Name": "Gucci", 
+        "#Product Description": "03 Chocolat, Stylo Contour des Yeux Eyeliner", 
+        "#Price":"$33.00",
+        "#SwatchesNumber":"+2",
+        "#Swatch 1":"https://media.gucci.com/style/Default_Center_0_0_140x140/1611843303/Swatch_663453_9KPL1_9003_001_100_0000_Default.jpg",
+        "#Swatch 2":"https://media.gucci.com/style/Default_Center_0_0_140x140/1611843303/Swatch_663453_9KPL1_9001_001_100_0000_Default.jpg",
+        "#Swatch 3":"https://media.gucci.com/style/Default_Center_0_0_140x140/1611843303/Swatch_663453_9KPL1_9002_001_100_0000_Default.jpg",
+        "#Swatch 4":"https://media.gucci.com/style/Default_Center_0_0_140x140/1611843303/Swatch_663453_9KPL1_9004_001_100_0000_Default.jpg"
+    },
+    { 
         "#Product Image": "https://media.gucci.com/style/White_Center_0_0_1200x1200/1612807208/662287_99PRD_9717_001_100_0000_Light-717-Marcia-Cobalt-Vernis-Ongles-Nail-Polish.jpg",
-        "#Model Shot": "https://media.gucci.com/style/White_Center_0_0_2400x2400_40/1612807209/662287_99PRD_9717_002_100_0000_Light-717-Marcia-Cobalt-Vernis-Ongles-Nail-Polish.jpg",
+        "#Model Shot": "https://media.gucci.com/style/DarkGray_Center_0_0_2400x2400_40/1612807209/662287_99PRD_9717_002_100_0000_Light-717-Marcia-Cobalt-Vernis-Ongles-Nail-Polish.jpg",
         "#Label": " ",
         "#Brand Name": "Gucci", 
         "#Product Description": "Rouge à Lèvres Satin Lipstick", 
@@ -105,21 +105,21 @@
         "#Swatch 4":"https://media.gucci.com/style/Default_Center_0_0_140x140/1612807210/Swatch_662287_99PRD_9414_001_100_0000_Default.jpg"
     },
     { 
-        "#Product Image": "https://media.gucci.com/style/White_Center_0_0_1200x1200/1582641005/624976_9PRD9_0001_001_100_0000_Light-clat-De-Beaut-Effet-Lumire-gel-face-gloss.jpg",
-        "#Model Shot": "https://media.gucci.com/style/White_Center_0_0_1200x1200/1582641006/624976_9PRD9_0001_002_100_0000_Light-clat-De-Beaut-Effet-Lumire-gel-face-gloss.jpg",
+        "#Product Image": "https://media.gucci.com/style/White_Center_0_0_1200x1200/1612807207/662287_99PRD_9712_001_100_0000_Light-712-Melinda-Green-Vernis-Ongles-Nail-Polish.jpg",
+        "#Model Shot": "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1582641006/624976_9PRD9_0001_002_100_0000_Light-clat-De-Beaut-Effet-Lumire-gel-face-gloss.jpg",
         "#Label": " ",
         "#Brand Name": "Gucci", 
-        "#Product Description": "Éclat De Beauté Effet Lumière gel face gloss", 
+        "#Product Description": "712 Melinda Green, Vernis à Ongles Nail Polish", 
         "#Price":"$35.00",
         "#SwatchesNumber":"+22",
-        "#Swatch 1":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg",
-        "#Swatch 2":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg",
-        "#Swatch 3":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg",
-        "#Swatch 4":"https://www.publicdomainpictures.net/pictures/30000/velka/plain-white-background.jpg"
+        "#Swatch 1":"https://media.gucci.com/style/Default_Center_0_0_140x140/1612807210/Swatch_662287_99PRD_9712_001_100_0000_Default.jpg",
+        "#Swatch 2":"https://media.gucci.com/style/Default_Center_0_0_140x140/1612807210/Swatch_662287_99PRD_9719_001_100_0000_Default.jpg",
+        "#Swatch 3":"https://media.gucci.com/style/Default_Center_0_0_140x140/1612807210/Swatch_662287_99PRD_9715_001_100_0000_Default.jpg",
+        "#Swatch 4":"https://media.gucci.com/style/Default_Center_0_0_140x140/1612807210/Swatch_662287_99PRD_9414_001_100_0000_Default.jpg"
     },
     { 
         "#Product Image": "https://media.gucci.com/style/White_Center_0_0_1200x1200/1627406103/624975_9PBR2_0001_001_100_0000_Light-01-Poudre-De-Beaut-clat-Soleil-Powder.jpg",
-        "#Model Shot": "https://media.gucci.com/style/White_Center_0_0_2400x2400_40/1589443203/624975_9PBR2_0001_002_100_0000_Light-01-Poudre-De-Beaut-clat-Soleil-Powder.jpg",
+        "#Model Shot": "https://media.gucci.com/style/DarkGray_Center_0_0_2400x2400_40/1589443203/624975_9PBR2_0001_002_100_0000_Light-01-Poudre-De-Beaut-clat-Soleil-Powder.jpg",
         "#Label": " ",
         "#Brand Name": "Gucci", 
         "#Product Description": "01, Poudre De Beauté Éclat Soleil Powder", 
@@ -132,7 +132,7 @@
     },
     { 
         "#Product Image": "https://media.gucci.com/style/White_Center_0_0_1200x1200/1614618006/586169_9PLP8_9518_001_100_0000_Light-518-Amy-Blush-Rouge-Lvres-Voile-Lipstick.jpg",
-        "#Model Shot": "https://media.gucci.com/style/White_Center_0_0_2400x2400_40/1614618006/586169_9PLP8_9518_002_100_0000_Light-518-Amy-Blush-Rouge-Lvres-Voile-Lipstick.jpg",
+        "#Model Shot": "https://media.gucci.com/style/DarkGray_Center_0_0_2400x2400_40/1614618006/586169_9PLP8_9518_002_100_0000_Light-518-Amy-Blush-Rouge-Lvres-Voile-Lipstick.jpg",
         "#Label": " ",
         "#Brand Name": "Gucci", 
         "#Product Description": "518 Amy Blush, Rouge à Lèvres Voile Lipstick", 
@@ -145,7 +145,7 @@
     },
     { 
         "#Product Image": "https://media.gucci.com/style/White_Center_0_0_1200x1200/1570454105/611234_9PL12_9209_001_100_0000_Light-209-Mona-Leslie-Cameo-Rouge-Lvres-Mat-Lipstick.jpg",
-        "#Model Shot": "https://media.gucci.com/style/White_Center_0_0_2400x2400_40/1570454105/611234_9PL12_9209_002_100_0000_Light-209-Mona-Leslie-Cameo-Rouge-Lvres-Mat-Lipstick.jpg",
+        "#Model Shot": "https://media.gucci.com/style/DarkGray_Center_0_0_2400x2400_40/1570454105/611234_9PL12_9209_002_100_0000_Light-209-Mona-Leslie-Cameo-Rouge-Lvres-Mat-Lipstick.jpg",
         "#Label": " ",
         "#Brand Name": "Gucci", 
         "#Product Description": "209 Mona Leslie Cameo, Rouge à Lèvres Mat Lipstick", 
