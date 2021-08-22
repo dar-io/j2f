@@ -1,17 +1,5 @@
 [ 
-    { 
-        "#Product Image": "https://media.gucci.com/style/White_Center_0_0_600x600/1554987604/586170_9PLP9_9003_001_100_0000_Light-3-Ren-Pink-Baume-Lvres-Lip-Balm.jpg",
-        "#Model Shot": "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200_40/1554987604/586170_9PLP9_9003_002_100_0000_Light-3-Ren-Pink-Baume-Lvres-Lip-Balm.jpg",
-        "#Label": " ",
-        "#Brand Name": "Gucci", 
-        "#Product Description": "3 René Pink, Baume à Lèvres Lip Balm", 
-        "#Price":"$33.50",
-        "#SwatchesNumber":"",
-        "#Swatch 1":"https://media.gucci.com/style/Default_Center_0_0_140x140/1554987605/Swatch_586170_9PLP9_9003_001_100_0000_Default.jpg",
-        "#Swatch 2":"https://media.gucci.com/style/Default_Center_0_0_140x140/1554987605/Swatch_586170_9PLP9_9002_001_100_0000_Default.jpg",
-        "#Swatch 3":"https://media.gucci.com/style/Default_Center_0_0_140x140/1554987605/Swatch_586170_9PLP9_9001_001_100_0000_Default.jpg",
-        "#Swatch 4":"https://media.gucci.com/style/Default_Center_0_0_140x140/1554987605/Swatch_586170_9PLP9_9004_001_100_0000_Default.jpg"
-    },
+   
     { 
         "#Product Image": "https://media.gucci.com/style/White_Center_0_0_600x600/1611682204/647859_9PL13_9025_001_100_0000_Light-25-Goldie-Red-Rouge-De-Beaut-Brillant.jpg",
         "#Model Shot": "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200_40/1611682204/647859_9PL13_9025_002_100_0000_Light-25-Goldie-Red-Rouge-De-Beaut-Brillant.jpg",
