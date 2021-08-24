@@ -1,17 +1,16 @@
 [ 
    
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17002604_Gold_Men/GradientBGPaper/17002604.jpg",
-        "#Model Shot": "https://dar-io.github.io/j2f/bgTest/Men/17002604_Gold_Men/PDP/17002604_V2.jpg",
+        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17002604_Gold_Men/17002604.png",
+        "#Model Shot": "",
         "#Label": "New Season",
         "#Brand Name": "sacai", 
         "#Product Description": "cable-knit panelled jumper", 
         "#Price":"$740"
     },
-
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17128655/GradientBGPaper/17128655.jpg",
-        "#Model Shot": "https://dar-io.github.io/j2f/bgTest/Men/17128655/17128655_v2.jpg",
+        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17128655/17128655.png",
+        "#Model Shot": "",
         "#Label": "New Season",
         "#Brand Name": "AMIRI", 
         "#Product Description": "tie-dye print T-shirt", 
@@ -19,7 +18,7 @@
         "#SwatchesNumber":"+3"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17136325/GradientBGPaper/17136325.jpg",
+        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17136325/17136325.png",
         "#Model Shot": "",
         "#Label": "New Season",
         "#Brand Name": "Prada", 
@@ -27,7 +26,7 @@
         "#Price":"$585"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17137255/GradientBGPaper/17137255.jpg",
+        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17137255/17137255.png",
         "#Model Shot": "",
         "#Label": "New Season",
         "#Brand Name": "Y-3", 
@@ -35,7 +34,7 @@
         "#Price":"$230"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17156320/GradientBGPaper/17156320_v1.jpg",
+        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17156320/17156320_v1.png",
         "#Model Shot": "",
         "#Label": "New Season",
         "#Brand Name": "Eleventy", 
@@ -43,12 +42,11 @@
         "#Price":"$403"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17166989/GradientBGPaper/17166989.jpg",
+        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17166989/17166989.png",
         "#Model Shot": "",
         "#Label": "New Season",
         "#Brand Name": "Gucci", 
         "#Product Description": "Interlocking G graphic-print hoodie", 
-        "#Price":"$890",
-        "#SwatchesNumber":"+2"
+        "#Price":"$890"
     }
 ]
