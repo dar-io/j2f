@@ -1,0 +1,82 @@
+[ 
+   
+    { 
+        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17002604_Gold_Men/GradientBGPaper/17002604.jpg",
+        "#Model Shot": "https://dar-io.github.io/j2f/bgTest/Men/17002604_Gold_Men/PDP/17002604_V2.jpg",
+        "#Label": "New Season",
+        "#Brand Name": "sacai", 
+        "#Product Description": "cable-knit panelled jumper", 
+        "#Price":"$740",
+        "#SwatchesNumber":"+8",
+        "#Swatch 1":"https://media.gucci.com/style/Default_Center_0_0_140x140/1620235806/Swatch_647859_9PL13_9025_001_100_0000_Default.jpg",
+        "#Swatch 2":"https://media.gucci.com/style/Default_Center_0_0_140x140/1620234903/Swatch_647859_9PL13_9514_001_100_0000_Default.jpg",
+        "#Swatch 3":"https://media.gucci.com/style/Default_Center_0_0_140x140/1620234903/Swatch_647859_9PL13_9515_001_100_0000_Default.jpg",
+        "#Swatch 4":"https://media.gucci.com/style/Default_Center_0_0_140x140/1620234010/Swatch_647859_9PL13_9516_001_100_0000_Default.jpg"
+    },
+
+    { 
+        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17128655/GradientBGPaper/17128655.jpg",
+        "#Model Shot": "https://dar-io.github.io/j2f/bgTest/Men/17128655/17128655_v2.jpg",
+        "#Label": "New Season",
+        "#Brand Name": "AMIRI", 
+        "#Product Description": "tie-dye print T-shirt", 
+        "#Price":"$385",
+        "#SwatchesNumber":"+3",
+        "#Swatch 1":"https://media.gucci.com/style/Default_Center_0_0_140x140/1625508008/Swatch_663440_9PEB2_9001_001_100_0000_Default.jpg",
+        "#Swatch 2":"https://media.gucci.com/style/Default_Center_0_0_140x140/1625508008/Swatch_663440_9PEB2_9002_001_100_0000_Default.jpg",
+        "#Swatch 3":"https://media.gucci.com/style/Default_Center_0_0_140x140/1625508008/Swatch_663440_9PEB2_9003_001_100_0000_Default.jpg",
+        "#Swatch 4":"https://media.gucci.com/style/Default_Center_0_0_140x140/1625508008/Swatch_663440_9PEB2_9004_001_100_0000_Default.jpg"
+    },
+    { 
+        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17136325/GradientBGPaper/17136325.jpg",
+        "#Model Shot": "",
+        "#Label": "New Season",
+        "#Brand Name": "Prada", 
+        "#Product Description": "triangle plaque slim-cut jeans", 
+        "#Price":"$585",
+        "#SwatchesNumber":"",
+        "#Swatch 1":"https://dar-io.github.io/j2f/images/GucciBeauty/s/3-1.png",
+        "#Swatch 2":"https://dar-io.github.io/j2f/images/GucciBeauty/s/3-2.png",
+        "#Swatch 3":"https://dar-io.github.io/j2f/images/GucciBeauty/s/3-3.png",
+        "#Swatch 4":"https://dar-io.github.io/j2f/images/GucciBeauty/s/3-4.png"
+    },
+    { 
+        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17137255/GradientBGPaper/17137255.jpg",
+        "#Model Shot": "",
+        "#Label": "New Season",
+        "#Brand Name": "Y-3", 
+        "#Product Description": "logo-patch backpack", 
+        "#Price":"$230",
+        "#SwatchesNumber":"+16",
+        "#Swatch 1":"https://dar-io.github.io/j2f/images/GucciBeauty/s/4-1.png",
+        "#Swatch 2":"https://dar-io.github.io/j2f/images/GucciBeauty/s/4-2.png",
+        "#Swatch 3":"https://dar-io.github.io/j2f/images/GucciBeauty/s/4-3.png",
+        "#Swatch 4":"https://dar-io.github.io/j2f/images/GucciBeauty/s/4-4.png"
+    },
+    { 
+        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17156320/GradientBGPaper/17156320_v1.jpg",
+        "#Model Shot": "",
+        "#Label": "New Season",
+        "#Brand Name": "Eleventy", 
+        "#Product Description": "low-top lace-up sneakers", 
+        "#Price":"$403",
+        "#SwatchesNumber":"+10",
+        "#Swatch 1":"https://dar-io.github.io/j2f/images/GucciBeauty/s/5-1.png",
+        "#Swatch 2":"https://dar-io.github.io/j2f/images/GucciBeauty/s/5-2.png",
+        "#Swatch 3":"https://dar-io.github.io/j2f/images/GucciBeauty/s/5-3.png",
+        "#Swatch 4":"https://dar-io.github.io/j2f/images/GucciBeauty/s/5-4.png"
+    },
+    { 
+        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17166989/GradientBGPaper/17166989.jpg",
+        "#Model Shot": "",
+        "#Label": "New Season",
+        "#Brand Name": "Gucci", 
+        "#Product Description": "Interlocking G graphic-print hoodie", 
+        "#Price":"$890",
+        "#SwatchesNumber":"+2",
+        "#Swatch 1":"https://dar-io.github.io/j2f/images/GucciBeauty/s/6-1.png",
+        "#Swatch 2":"https://dar-io.github.io/j2f/images/GucciBeauty/s/6-2.png",
+        "#Swatch 3":"https://dar-io.github.io/j2f/images/GucciBeauty/s/6-3.png",
+        "#Swatch 4":"https://dar-io.github.io/j2f/images/GucciBeauty/s/6-4.png"
+    }
+]
