@@ -1,0 +1,27 @@
+[ 
+   
+    { 
+        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Women/16741957_Gold_Women/16741957.png",
+        "#Model Shot": "",
+        "#Label": "New Season",
+        "#Brand Name": "Alexander McQueen ", 
+        "#Product Description": "tulle toile bow drape dress", 
+        "#Price":"$3,970"
+    },
+    { 
+        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Women/17118578/17118578.png",
+        "#Model Shot": "",
+        "#Label": "New Season",
+        "#Brand Name": "Prada", 
+        "#Product Description": "triangle plaque slim-cut jeans", 
+        "#Price":"$585"
+    },
+    { 
+        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Women/16863318/16863318.png",
+        "#Model Shot": "",
+        "#Label": "New Season",
+        "#Brand Name": "Heron Preston", 
+        "#Product Description": "logo-embroidered high-neck sweatshirt", 
+        "#Price":"$215"
+    }
+]

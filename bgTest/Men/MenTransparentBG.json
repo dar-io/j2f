@@ -26,22 +26,6 @@
         "#Price":"$585"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17137255/17137255.png",
-        "#Model Shot": "",
-        "#Label": "New Season",
-        "#Brand Name": "Y-3", 
-        "#Product Description": "logo-patch backpack", 
-        "#Price":"$230"
-    },
-    { 
-        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17156320/17156320_v1.png",
-        "#Model Shot": "",
-        "#Label": "New Season",
-        "#Brand Name": "Eleventy", 
-        "#Product Description": "low-top lace-up sneakers", 
-        "#Price":"$403"
-    },
-    { 
         "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17166989/17166989.png",
         "#Model Shot": "",
         "#Label": "New Season",
@@ -50,3 +34,4 @@
         "#Price":"$890"
     }
 ]
+
