@@ -1,37 +1,37 @@
 [ 
    
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17002604_Gold_Men/17002604.png",
-        "#Model Shot": "",
-        "#Label": "New Season",
-        "#Brand Name": "sacai", 
-        "#Product Description": "cable-knit panelled jumper", 
-        "#Price":"$740"
+        "#product_image": "https://dar-io.github.io/j2f/bgTest/Men/17002604_Gold_Men/17002604.png",
+        "#model_shot":  "",
+        "#primary_label": "New Season",
+        "#brand_name": "sacai", 
+        "#product_description": "cable-knit panelled jumper", 
+        "#full_price":"$740"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17128655/17128655.png",
-        "#Model Shot": "",
-        "#Label": "New Season",
-        "#Brand Name": "AMIRI", 
-        "#Product Description": "tie-dye print T-shirt", 
-        "#Price":"$385",
-        "#SwatchesNumber":"+3"
+        "#product_image": "https://dar-io.github.io/j2f/bgTest/Men/17128655/17128655.png",
+        "#model_shot":  "",
+        "#primary_label": "New Season",
+        "#brand_name": "AMIRI", 
+        "#product_description": "tie-dye print T-shirt", 
+        "#full_price":"$385",
+        "#swatches_counter":"+3"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17136325/17136325.png",
-        "#Model Shot": "",
-        "#Label": "New Season",
-        "#Brand Name": "Prada", 
-        "#Product Description": "triangle plaque slim-cut jeans", 
-        "#Price":"$585"
+        "#product_image": "https://dar-io.github.io/j2f/bgTest/Men/17136325/17136325.png",
+        "#model_shot":  "",
+        "#primary_label": "New Season",
+        "#brand_name": "Prada", 
+        "#product_description": "triangle plaque slim-cut jeans", 
+        "#full_price":"$585"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Men/17166989/17166989.png",
-        "#Model Shot": "",
-        "#Label": "New Season",
-        "#Brand Name": "Gucci", 
-        "#Product Description": "Interlocking G graphic-print hoodie", 
-        "#Price":"$890"
+        "#product_image": "https://dar-io.github.io/j2f/bgTest/Men/17166989/17166989.png",
+        "#model_shot":  "",
+        "#primary_label": "New Season",
+        "#brand_name": "Gucci", 
+        "#product_description": "Interlocking G graphic-print hoodie", 
+        "#full_price":"$890"
     }
 ]
 

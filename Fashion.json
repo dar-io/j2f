@@ -1,99 +1,99 @@
 [ 
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/images/01.jpg",
-        "#Model Shot": "https://dar-io.github.io/j2f/images/01-hover.jpg",
-        "#Label": "New Season",
-        "#Brand Name": "Alexander McQueen", 
-        "#Product Description": "ruffle-shoulder biker jacket", 
-        "#Price":"$3,650"
+     "#product_image": "https://dar-io.github.io/j2f/images/01.jpg",
+     "#model_shot":  "https://dar-io.github.io/j2f/images/01-hover.jpg",
+     "#primary_label": "New Season",
+     "#brand_name": "Alexander McQueen", 
+     "#product_description": "ruffle-shoulder biker jacket", 
+     "#full_price":"$3,650"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/images/02.jpg",
-        "#Model Shot": "https://dar-io.github.io/j2f/images/02-hover.jpg",
-        "#Label": " ",
-        "#Brand Name": "Bottega Veneta", 
-        "#Product Description": "Chain Pouch shoulder bag", 
-        "#Price":"$2,750"
+     "#product_image": "https://dar-io.github.io/j2f/images/02.jpg",
+     "#model_shot":  "https://dar-io.github.io/j2f/images/02-hover.jpg",
+     "#primary_label": " ",
+     "#brand_name": "Bottega Veneta", 
+     "#product_description": "Chain Pouch shoulder bag", 
+     "#full_price":"$2,750"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/images/03.jpg",
-        "#Model Shot": "https://dar-io.github.io/j2f/images/03-hover.jpg",
-        "#Label": "New Season",
-        "#Brand Name": "Alexander McQueen", 
-        "#Product Description": "asymmetric pleated midi skirt", 
-        "#Price":"$990"
+     "#product_image": "https://dar-io.github.io/j2f/images/03.jpg",
+     "#model_shot":  "https://dar-io.github.io/j2f/images/03-hover.jpg",
+     "#primary_label": "New Season",
+     "#brand_name": "Alexander McQueen", 
+     "#product_description": "asymmetric pleated midi skirt", 
+     "#full_price":"$990"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/images/04.jpg",
-        "#Model Shot": "https://dar-io.github.io/j2f/images/01-hover.jpg",
-        "#Label": "New Season",
-        "#Brand Name": "Sacai", 
-        "#Product Description": "polka-dot patterned dress", 
-        "#Price":"$1,399"
+     "#product_image": "https://dar-io.github.io/j2f/images/04.jpg",
+     "#model_shot":  "https://dar-io.github.io/j2f/images/01-hover.jpg",
+     "#primary_label": "New Season",
+     "#brand_name": "Sacai", 
+     "#product_description": "polka-dot patterned dress", 
+     "#full_price":"$1,399"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/images/05.jpg",
-        "#Model Shot": "https://dar-io.github.io/j2f/images/05-hover.jpg",
-        "#Label": "New Season",
-        "#Brand Name": "Burberry", 
-        "#Product Description": "panelled gabardine jacket", 
-        "#Price":"$1,490"
+     "#product_image": "https://dar-io.github.io/j2f/images/05.jpg",
+     "#model_shot":  "https://dar-io.github.io/j2f/images/05-hover.jpg",
+     "#primary_label": "New Season",
+     "#brand_name": "Burberry", 
+     "#product_description": "panelled gabardine jacket", 
+     "#full_price":"$1,490"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/images/06.jpg",
-        "#Model Shot": "https://dar-io.github.io/j2f/images/06-hover.jpg",
-        "#Label": "Exclusive",
-        "#Brand Name": "Y/Project", 
-        "#Product Description": "Field oversized cape", 
-        "#Price":"$1,215"
+     "#product_image": "https://dar-io.github.io/j2f/images/06.jpg",
+     "#model_shot":  "https://dar-io.github.io/j2f/images/06-hover.jpg",
+     "#primary_label": "Exclusive",
+     "#brand_name": "Y/Project", 
+     "#product_description": "Field oversized cape", 
+     "#full_price":"$1,215"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/images/07.jpg",
-        "#Model Shot": "https://dar-io.github.io/j2f/images/07-hover.jpg",
-        "#Label": "New Season",
-        "#Brand Name": "Y/Project", 
-        "#Product Description": "sheer-lace cropped top", 
-        "#Price":"$595"
+     "#product_image": "https://dar-io.github.io/j2f/images/07.jpg",
+     "#model_shot":  "https://dar-io.github.io/j2f/images/07-hover.jpg",
+     "#primary_label": "New Season",
+     "#brand_name": "Y/Project", 
+     "#product_description": "sheer-lace cropped top", 
+     "#full_price":"$595"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/images/08.jpg",
-        "#Model Shot": "https://dar-io.github.io/j2f/images/08-hover.jpg",
-        "#Label": "New Season",
-        "#Brand Name": "Gucci", 
-        "#Product Description": "super mini GG Marmont shoulder bag", 
-        "#Price":"$840"
+     "#product_image": "https://dar-io.github.io/j2f/images/08.jpg",
+     "#model_shot":  "https://dar-io.github.io/j2f/images/08-hover.jpg",
+     "#primary_label": "New Season",
+     "#brand_name": "Gucci", 
+     "#product_description": "super mini GG Marmont shoulder bag", 
+     "#full_price":"$840"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/images/09.jpg",
-        "#Model Shot": "https://dar-io.github.io/j2f/images/09-hover.jpg",
-        "#Label": "Last 1 left",
-        "#Brand Name": "Valentino", 
-        "#Product Description": "floral-print cape dress", 
-        "#Price":"$,110"
+     "#product_image": "https://dar-io.github.io/j2f/images/09.jpg",
+     "#model_shot":  "https://dar-io.github.io/j2f/images/09-hover.jpg",
+     "#primary_label": "Last 1 left",
+     "#brand_name": "Valentino", 
+     "#product_description": "floral-print cape dress", 
+     "#full_price":"$,110"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/images/10.jpg",
-        "#Model Shot": "https://dar-io.github.io/j2f/images/10-hover.jpg",
-        "#Label": "New Season",
-        "#Brand Name": "Balmain", 
-        "#Product Description": "structured shoulder jacket", 
-        "#Price":"$1,650"
+     "#product_image": "https://dar-io.github.io/j2f/images/10.jpg",
+     "#model_shot":  "https://dar-io.github.io/j2f/images/10-hover.jpg",
+     "#primary_label": "New Season",
+     "#brand_name": "Balmain", 
+     "#product_description": "structured shoulder jacket", 
+     "#full_price":"$1,650"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/images/11.jpg",
-        "#Model Shot": "https://dar-io.github.io/j2f/images/11-hover.jpg",
-        "#Label": "New Season",
-        "#Brand Name": "Fendi", 
-        "#Product Description": "belted sheer midi dress", 
-        "#Price":"$2,590"
+     "#product_image": "https://dar-io.github.io/j2f/images/11.jpg",
+     "#model_shot":  "https://dar-io.github.io/j2f/images/11-hover.jpg",
+     "#primary_label": "New Season",
+     "#brand_name": "Fendi", 
+     "#product_description": "belted sheer midi dress", 
+     "#full_price":"$2,590"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/images/12.jpg",
-        "#Model Shot": "https://dar-io.github.io/j2f/images/12-hover.jpg",
-        "#Label": "New Season",
-        "#Brand Name": "Off-White", 
-        "#Product Description": "asymmetric flared dress", 
-        "#Price":"$810"
+     "#product_image": "https://dar-io.github.io/j2f/images/12.jpg",
+     "#model_shot":  "https://dar-io.github.io/j2f/images/12-hover.jpg",
+     "#primary_label": "New Season",
+     "#brand_name": "Off-White", 
+     "#product_description": "asymmetric flared dress", 
+     "#full_price":"$810"
     }
 
 

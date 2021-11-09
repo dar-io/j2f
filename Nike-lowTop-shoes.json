@@ -1,98 +1,98 @@
 [
   {
-    "#Product Image": "https://cdn-images.farfetch-contents.com/15/25/25/05/15252505_26432831_1000.jpg",
-    "#Model Shot": "https://cdn-images.farfetch-contents.com/15/25/25/05/15252505_26432832_1000.jpg",
-    "#Label": " ",
-    "#Brand Name": "Nike",
-    "#Product Description": "x Supreme Air Force 1 sneakers",
-    "#Price": "$271"
+    "#product_image": "https://cdn-images.farfetch-contents.com/15/25/25/05/15252505_26432831_1000.jpg",
+    "#model_shot":  "https://cdn-images.farfetch-contents.com/15/25/25/05/15252505_26432832_1000.jpg",
+    "#primary_label": " ",
+    "#brand_name": "Nike",
+    "#product_description": "x Supreme Air Force 1 sneakers",
+    "#full_price": "$271"
   },
   {
-    "#Product Image": "https://cdn-images.farfetch-contents.com/15/73/12/84/15731284_28870880_1000.jpg",
-    "#Model Shot": "https://cdn-images.farfetch-contents.com/15/73/12/84/15731284_28870881_1000.jpg",
-    "#Label": " ",
-    "#Brand Name": "Nike",
-    "#Product Description": "Air Barrage low-top sneakers ",
-    "#Price": "$324"
+    "#product_image": "https://cdn-images.farfetch-contents.com/15/73/12/84/15731284_28870880_1000.jpg",
+    "#model_shot":  "https://cdn-images.farfetch-contents.com/15/73/12/84/15731284_28870881_1000.jpg",
+    "#primary_label": " ",
+    "#brand_name": "Nike",
+    "#product_description": "Air Barrage low-top sneakers ",
+    "#full_price": "$324"
   },
   {
-    "#Product Image": "https://cdn-images.farfetch-contents.com/16/35/26/08/16352608_31377479_1000.jpg",
-    "#Model Shot": "https://cdn-images.farfetch-contents.com/16/35/26/08/16352608_31378639_1000.jpg",
-    "#Label": "",
-    "#Brand Name": "Nike",
-    "#Product Description": "Air Force 1 '07 low-top sneakers",
-    "#Price": "$146"
+    "#product_image": "https://cdn-images.farfetch-contents.com/16/35/26/08/16352608_31377479_1000.jpg",
+    "#model_shot":  "https://cdn-images.farfetch-contents.com/16/35/26/08/16352608_31378639_1000.jpg",
+    "#primary_label": "",
+    "#brand_name": "Nike",
+    "#product_description": "Air Force 1 '07 low-top sneakers",
+    "#full_price": "$146"
   },
   {
-    "#Product Image": "https://cdn-images.farfetch-contents.com/13/67/81/38/13678138_17376205_1000.jpg",
-    "#Model Shot": "https://cdn-images.farfetch-contents.com/13/67/81/38/13678138_17376223_1000.jpg",
-    "#Label": " ",
-    "#Brand Name": "Nike",
-    "#Product Description": "SB What The Dunk sneakers",
-    "#Price": "$40,399"
+    "#product_image": "https://cdn-images.farfetch-contents.com/13/67/81/38/13678138_17376205_1000.jpg",
+    "#model_shot":  "https://cdn-images.farfetch-contents.com/13/67/81/38/13678138_17376223_1000.jpg",
+    "#primary_label": " ",
+    "#brand_name": "Nike",
+    "#product_description": "SB What The Dunk sneakers",
+    "#full_price": "$40,399"
   },
   {
-    "#Product Image": "https://cdn-images.farfetch-contents.com/13/42/90/68/13429068_21437931_1000.jpg",
-    "#Model Shot": "https://cdn-images.farfetch-contents.com/13/42/90/68/13429068_21437933_1000.jpg",
-    "#Label": " ",
-    "#Brand Name": "Nike",
-    "#Product Description": "Air Vapormax Plus",
-    "#Price": "$319"
+    "#product_image": "https://cdn-images.farfetch-contents.com/13/42/90/68/13429068_21437931_1000.jpg",
+    "#model_shot":  "https://cdn-images.farfetch-contents.com/13/42/90/68/13429068_21437933_1000.jpg",
+    "#primary_label": " ",
+    "#brand_name": "Nike",
+    "#product_description": "Air Vapormax Plus",
+    "#full_price": "$319"
   },
   {
-    "#Product Image": "https://cdn-images.farfetch-contents.com/16/55/66/43/16556643_32352393_1000.jpg",
-    "#Model Shot": "https://cdn-images.farfetch-contents.com/16/55/66/43/16556643_32352393_1000.jpg",
-    "#Label": " ",
-    "#Brand Name": "Nike",
-    "#Product Description": "Air Force 1 '07 LX 'Thank You Plastic Bag' sneakers",
-    "#Price": "$256"
+    "#product_image": "https://cdn-images.farfetch-contents.com/16/55/66/43/16556643_32352393_1000.jpg",
+    "#model_shot":  "https://cdn-images.farfetch-contents.com/16/55/66/43/16556643_32352393_1000.jpg",
+    "#primary_label": " ",
+    "#brand_name": "Nike",
+    "#product_description": "Air Force 1 '07 LX 'Thank You Plastic Bag' sneakers",
+    "#full_price": "$256"
   },
   {
-    "#Product Image": "https://cdn-images.farfetch-contents.com/14/36/77/16/14367716_20718490_1000.jpg",
-    "#Model Shot": "https://cdn-images.farfetch-contents.com/14/36/77/16/14367716_20718492_1000.jpg",
-    "#Label": "New Season",
-    "#Brand Name": "Nike",
-    "#Product Description": "Nike Shox TL Sneakers",
-    "#Price": "$435"
+    "#product_image": "https://cdn-images.farfetch-contents.com/14/36/77/16/14367716_20718490_1000.jpg",
+    "#model_shot":  "https://cdn-images.farfetch-contents.com/14/36/77/16/14367716_20718492_1000.jpg",
+    "#primary_label": "New Season",
+    "#brand_name": "Nike",
+    "#product_description": "Nike Shox TL Sneakers",
+    "#full_price": "$435"
   },
   {
-    "#Product Image": "https://cdn-images.farfetch-contents.com/13/12/32/19/13123219_21511358_1000.jpg",
-    "#Model Shot": "https://cdn-images.farfetch-contents.com/13/12/32/19/13123219_21511360_1000.jpg",
-    "#Label": " ",
-    "#Brand Name": "Nike",
-    "#Product Description": "x Sean Wotherspoon Air Max 97 sneakers",
-    "#Price": "$2,256"
+    "#product_image": "https://cdn-images.farfetch-contents.com/13/12/32/19/13123219_21511358_1000.jpg",
+    "#model_shot":  "https://cdn-images.farfetch-contents.com/13/12/32/19/13123219_21511360_1000.jpg",
+    "#primary_label": " ",
+    "#brand_name": "Nike",
+    "#product_description": "x Sean Wotherspoon Air Max 97 sneakers",
+    "#full_price": "$2,256"
   },
   {
-    "#Product Image": "https://cdn-images.farfetch-contents.com/16/40/35/69/16403569_31752432_1000.jpg",
-    "#Model Shot": "https://cdn-images.farfetch-contents.com/16/40/35/69/16403569_31750946_1000.jpg",
-    "#Label": " ",
-    "#Brand Name": "Nike",
-    "#Product Description": "Dunk Low Retro sneakers",
-    "#Price": "$529"
+    "#product_image": "https://cdn-images.farfetch-contents.com/16/40/35/69/16403569_31752432_1000.jpg",
+    "#model_shot":  "https://cdn-images.farfetch-contents.com/16/40/35/69/16403569_31750946_1000.jpg",
+    "#primary_label": " ",
+    "#brand_name": "Nike",
+    "#product_description": "Dunk Low Retro sneakers",
+    "#full_price": "$529"
   },
   {
-    "#Product Image": "https://cdn-images.farfetch-contents.com/12/94/32/67/12943267_13454683_1000.jpg",
-    "#Model Shot": "https://cdn-images.farfetch-contents.com/12/94/32/67/12943267_13454685_1000.jpg",
-    "#Label": " ",
-    "#Brand Name": "Nike",
-    "#Product Description": "Killshot 2 sneakers",
-    "#Price": "$120"
+    "#product_image": "https://cdn-images.farfetch-contents.com/12/94/32/67/12943267_13454683_1000.jpg",
+    "#model_shot":  "https://cdn-images.farfetch-contents.com/12/94/32/67/12943267_13454685_1000.jpg",
+    "#primary_label": " ",
+    "#brand_name": "Nike",
+    "#product_description": "Killshot 2 sneakers",
+    "#full_price": "$120"
   },
   {
-    "#Product Image": "https://cdn-images.farfetch-contents.com/16/74/05/75/16740575_32971324_1000.jpg",
-    "#Model Shot": "https://cdn-images.farfetch-contents.com/16/74/05/75/16740575_32971325_1000.jpg",
-    "#Label": " ",
-    "#Brand Name": "Nike",
-    "#Product Description": "Air Force 1 Craft low-top sneakers",
-    "#Price": "$2,590"
+    "#product_image": "https://cdn-images.farfetch-contents.com/16/74/05/75/16740575_32971324_1000.jpg",
+    "#model_shot":  "https://cdn-images.farfetch-contents.com/16/74/05/75/16740575_32971325_1000.jpg",
+    "#primary_label": " ",
+    "#brand_name": "Nike",
+    "#product_description": "Air Force 1 Craft low-top sneakers",
+    "#full_price": "$2,590"
   },
   {
-    "#Product Image": "https://cdn-images.farfetch-contents.com/16/90/03/89/16900389_33543431_1000.jpg",
-    "#Model Shot": "https://cdn-images.farfetch-contents.com/16/90/03/89/16900389_33544114_1000.jpg",
-    "#Label": " ",
-    "#Brand Name": "Nike",
-    "#Product Description": "x Sacai Blazer Low sneakers",
-    "#Price": "$271"
+    "#product_image": "https://cdn-images.farfetch-contents.com/16/90/03/89/16900389_33543431_1000.jpg",
+    "#model_shot":  "https://cdn-images.farfetch-contents.com/16/90/03/89/16900389_33544114_1000.jpg",
+    "#primary_label": " ",
+    "#brand_name": "Nike",
+    "#product_description": "x Sacai Blazer Low sneakers",
+    "#full_price": "$271"
   }
 ]

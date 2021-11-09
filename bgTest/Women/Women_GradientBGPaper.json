@@ -1,51 +1,51 @@
 [ 
    
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Women/16741957_Gold_Women/GradientBGPaper/16741957.jpg",
-        "#Model Shot": "",
-        "#Label": "New Season",
-        "#Brand Name": "Alexander McQueen ", 
-        "#Product Description": "tulle toile bow drape dress", 
-        "#Price":"$3,970"
+        "#product_image": "https://dar-io.github.io/j2f/bgTest/Women/16741957_Gold_Women/GradientBGPaper/16741957.jpg",
+        "#model_shot":  "",
+        "#primary_label": "New Season",
+        "#brand_name": "Alexander McQueen ", 
+        "#product_description": "tulle toile bow drape dress", 
+        "#full_price":"$3,970"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Women/16659152/16659152_v1.jpg",
-        "#Model Shot": "",
-        "#Label": "New Season",
-        "#Brand Name": "Sweaty Betty", 
-        "#Product Description": "Power colour-block leggings", 
-        "#Price":"$75"
+        "#product_image": "https://dar-io.github.io/j2f/bgTest/Women/16659152/16659152_v1.jpg",
+        "#model_shot":  "",
+        "#primary_label": "New Season",
+        "#brand_name": "Sweaty Betty", 
+        "#product_description": "Power colour-block leggings", 
+        "#full_price":"$75"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Women/17118578/GradientBGPaper/17118578.jpg",
-        "#Model Shot": "",
-        "#Label": "New Season",
-        "#Brand Name": "Prada", 
-        "#Product Description": "triangle plaque slim-cut jeans", 
-        "#Price":"$585"
+        "#product_image": "https://dar-io.github.io/j2f/bgTest/Women/17118578/GradientBGPaper/17118578.jpg",
+        "#model_shot":  "",
+        "#primary_label": "New Season",
+        "#brand_name": "Prada", 
+        "#product_description": "triangle plaque slim-cut jeans", 
+        "#full_price":"$585"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Women/16863318/GradientBGPaper/16863318.jpg",
-        "#Model Shot": "",
-        "#Label": "New Season",
-        "#Brand Name": "Heron Preston", 
-        "#Product Description": "logo-embroidered high-neck sweatshirt", 
-        "#Price":"$215"
+        "#product_image": "https://dar-io.github.io/j2f/bgTest/Women/16863318/GradientBGPaper/16863318.jpg",
+        "#model_shot":  "",
+        "#primary_label": "New Season",
+        "#brand_name": "Heron Preston", 
+        "#product_description": "logo-embroidered high-neck sweatshirt", 
+        "#full_price":"$215"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Women/17163663/GradientBGPaper/17163663_v1.jpg",
-        "#Model Shot": "",
-        "#Label": "New Season",
-        "#Brand Name": "Jacquemus", 
-        "#Product Description": "Le Chiquito mini bag", 
-        "#Price":"$403"
+        "#product_image": "https://dar-io.github.io/j2f/bgTest/Women/17163663/GradientBGPaper/17163663_v1.jpg",
+        "#model_shot":  "",
+        "#primary_label": "New Season",
+        "#brand_name": "Jacquemus", 
+        "#product_description": "Le Chiquito mini bag", 
+        "#full_price":"$403"
     },
     { 
-        "#Product Image": "https://dar-io.github.io/j2f/bgTest/Women/17171347_SNEAKERS/GradientBGPaper/17171347_v1.jpg",
-        "#Model Shot": "",
-        "#Label": "New Season",
-        "#Brand Name": "Golden Goose", 
-        "#Product Description": "star-patch lace-up sneakers", 
-        "#Price":"$890"
+        "#product_image": "https://dar-io.github.io/j2f/bgTest/Women/17171347_SNEAKERS/GradientBGPaper/17171347_v1.jpg",
+        "#model_shot":  "",
+        "#primary_label": "New Season",
+        "#brand_name": "Golden Goose", 
+        "#product_description": "star-patch lace-up sneakers", 
+        "#full_price":"$890"
     }
 ]
